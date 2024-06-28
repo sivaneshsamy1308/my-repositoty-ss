@@ -1,1 +1,1 @@
-This repository is made to display projects I made
+This repository contains files relating to ANSYS project.
