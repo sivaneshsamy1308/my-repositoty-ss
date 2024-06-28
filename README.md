@@ -1,1 +1,1 @@
-This repository contains files relating to ANSYS project.
+This repository contains files relating to ANSYS and other projects.
